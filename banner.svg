@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="dencent444 C/C++ CTF Web Security">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101824"/><stop offset="1" stop-color="#080d15"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#48d9c4"/><stop offset="1" stop-color="#64a8ff"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6c849c" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="350" rx="18" fill="url(#bg)"/><rect width="1200" height="350" rx="18" fill="url(#grid)"/>
+<path d="M60 61h33M60 61v33M1140 289h-33M1140 289v-33" fill="none" stroke="#48d9c4" stroke-width="2" opacity=".75"/>
+<text x="83" y="126" font-family="monospace" font-size="18" fill="#48d9c4">~/profile $ whoami</text>
+<text x="80" y="203" font-family="monospace" font-size="67" font-weight="bold" fill="#edf4fa">dencent<tspan fill="url(#accent)">444</tspan></text>
+<text x="84" y="253" font-family="monospace" font-size="21" letter-spacing="3" fill="#a2b5c9">C/C++   /   CTF   /   WEB SECURITY</text>
+<path d="M82 281H1118" stroke="#263a4c"/>
+<g stroke="#48d9c4" fill="none" opacity=".28"><circle cx="1005" cy="124" r="59"/><circle cx="1005" cy="124" r="92" stroke-dasharray="3 10"/><path d="M913 124h184M1005 32v184M941 60l128 128M941 188l128-128"/></g>
+<circle cx="1005" cy="124" r="5" fill="#48d9c4"/>
+<text x="84" y="311" font-family="monospace" font-size="14" fill="#6f8b9f">[ systems / security ]</text>
+</svg>
