@@ -4,6 +4,6 @@
 
 <br />
 
-<a href="https://t.me/dencent444"><img src="./telegram.svg" width="30" height="30" alt="Telegram" /></a>
+
 
 </div>
